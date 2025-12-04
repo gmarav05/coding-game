@@ -10,20 +10,19 @@ The goal of this project is to practice React JS.
 ## Video
 
 ## Image
+<br/><br/><br/><br/>
 
-<div align="left">
+<img src="./gamewon.png" width="450" align="left" />
 
-Game Won
-<img src="./gamewon.png" alt="Game Won Screen" width="400">
+<br/><br/><br/><br/>
 
-Game Lost
-<img src="./gamelost.png" alt="Game Lost Screen" width="400">
+<img src="./gamelost.png" width="450" align="left" />
 
-Playing
-<img src="./playing.png" alt="Game in Progress" width="400">
+<br/><br/><br/><br/>
 
-</div>
+<img src="./playing.png" width="450" align="left" />
 
+<br/><br/><br/><br/>
 ##  How to Play
 
 1) **Start the Game** - A random word is selected and displayed as blanks.
