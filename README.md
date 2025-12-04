@@ -11,12 +11,14 @@ The goal of this project is to practice React JS.
 
 ## Image
 
-![](./gamewon.png)
-# 
-![](./gamelost.png)
-# 
-![](./playing.png)
-
+<div align="center">
+Game Won
+<img src="./gamewon.png" alt="Game Won Screen" width="600">
+Game Lost
+<img src="./gamelost.png" alt="Game Lost Screen" width="600">
+Playing
+<img src="./playing.png" alt="Game in Progress" width="600">
+</div>
 ##  How to Play
 
 1) **Start the Game** - A random word is selected and displayed as blanks.
