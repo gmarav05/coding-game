@@ -11,7 +11,8 @@ The goal of this project is to practice React JS.
 
 ## Image
 
-<img src="./gamewon.png" width="350" height="350" />
+<img src="./playing.png" width="450" height="450" /> </br>
+<img src="./gamewon.png" width="350" height="350" /> </br>
 
 
 
