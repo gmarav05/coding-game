@@ -11,9 +11,12 @@ The goal of this project is to practice React JS.
 
 ## Image
 
-<br/> <img src="./gamewon.png" width="250" align="left" style="margin-right: 20px;" /> <img src="./gamelost.png" width="250" align="left" style="margin-right: 20px;" /> <img src="./playing.png" width="250" align="left" />
+<br/> 
+<img src="./gamewon.png" width="250" align="left" style="margin-right: 20px;" /> <img src="./gamelost.png" width="250" align="left" style="margin-right: 20px;" /> <img src="./playing.png" width="250" align="left" />
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
+
+
 
 ##  How to Play
 
