@@ -9,6 +9,10 @@ The goal of this project is to practice React JS.
 
 ## Video
 
+https://github.com/user-attachments/assets/70e19ebd-92bc-4439-b423-c4c75c9b19a6
+
+
+
 ## Image
 
 <img src="./playing.png" width="450" height="450" /> </br>
