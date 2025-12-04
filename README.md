@@ -12,12 +12,15 @@ The goal of this project is to practice React JS.
 ## Image
 
 <div align="center">
-Game Won
-<img src="./gamewon.png" alt="Game Won Screen" width="600">
-Game Lost
-<img src="./gamelost.png" alt="Game Lost Screen" width="600">
-Playing
-<img src="./playing.png" alt="Game in Progress" width="600">
+#Game Won
+<img src="./gamewon.png" alt="Game Won Screen" width="400">
+
+#Game Lost
+<img src="./gamelost.png" alt="Game Lost Screen" width="400">
+
+#Playing
+<img src="./playing.png" alt="Game in Progress" width="400">
+
 </div>
 ##  How to Play
 
