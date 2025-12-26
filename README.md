@@ -1,4 +1,4 @@
-## Dice Game 
+## Coding Game 
 A simple word-guessing game built with **React** where players must guess a hidden word within 8 attempts before all programming languages are eliminated!.
 
 
